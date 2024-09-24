@@ -1,0 +1,17 @@
+#container{
+    background-color: rgb(124, 84, 199);
+    border: 5px,solid lightblue;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    height: 260px;
+    width: 600px;
+    border-radius: 10px;
+
+}
+#userinput{
+    width: 170px;
+    height: auto;
+    font-size: 15px;
+    font-weight: 500;
+}
